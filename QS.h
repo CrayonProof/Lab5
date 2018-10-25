@@ -19,5 +19,8 @@ public:
 	void clear();
 private:
 	int *array;
+	int first;
+	int middle;
+	int last;
 };
 	
