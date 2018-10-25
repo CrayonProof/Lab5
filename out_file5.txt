@@ -1,0 +1,136 @@
+createArray 20 True
+addToArray 9 True
+addToArray 8 True
+addToArray 7 True
+addToArray 6 True
+addToArray 5 True
+addToArray 4 True
+addToArray 3 True
+addToArray 2 True
+addToArray 1 True
+addToArray 0 True
+getArray
+ {0,32599,1802958984,32599,-1,0,808203643,909127980}
+sortAll
+getArray
+ {0,32599,1802958984,32599,-1,0,808203643,909127980}
+createArray 20 True
+addToArray 9 True
+addToArray 8 True
+addToArray 7 True
+addToArray 6 True
+addToArray 5 True
+addToArray 4 True
+addToArray 3 True
+addToArray 2 True
+addToArray 1 True
+addToArray 0 True
+addToArray 9 True
+addToArray 8 True
+addToArray 7 True
+addToArray 6 True
+addToArray 5 True
+addToArray 4 True
+addToArray 3 True
+addToArray 2 True
+addToArray 1 True
+addToArray 0 True
+getArray
+ {0,32599,1802958888,32599,-1,0,842020913,959984953}
+sortAll
+getArray
+ {0,32599,1802958888,32599,-1,0,842020913,959984953}
+createArray 20 True
+addToArray 0 True
+addToArray 0 True
+addToArray 0 True
+addToArray 0 True
+addToArray 0 True
+addToArray -1 True
+addToArray 0 True
+addToArray 0 True
+addToArray 0 True
+addToArray 0 True
+addToArray 1 True
+addToArray 0 True
+addToArray 0 True
+addToArray 0 True
+addToArray 0 True
+addToArray 1 True
+addToArray 0 True
+addToArray 0 True
+addToArray -1 True
+addToArray 0 True
+getArray
+ {0,32599,1802959096,32599,-1,0,842020913,943207737}
+sortAll
+getArray
+ {0,32599,1802959096,32599,-1,0,842020913,943207737}
+createArray 30 True
+addToArray 30 True
+addToArray 29 True
+addToArray 28 True
+addToArray 27 True
+addToArray 26 True
+addToArray 25 True
+addToArray 24 True
+addToArray 23 True
+addToArray 22 True
+addToArray 21 True
+addToArray 20 True
+addToArray 19 True
+addToArray 18 True
+addToArray 17 True
+addToArray 16 True
+addToArray 15 True
+addToArray 14 True
+addToArray 13 True
+addToArray 12 True
+addToArray 11 True
+addToArray 10 True
+addToArray 9 True
+addToArray 8 True
+addToArray 7 True
+addToArray 6 True
+addToArray 5 True
+addToArray 4 True
+addToArray 3 True
+addToArray 2 True
+addToArray 1 True
+getArray
+ {1,32599,1802959000,32599,-1,0,842020913,809055545}
+sortAll
+getArray
+ {1,32599,1802959000,32599,-1,0,842020913,809055545}
+createArray 10 True
+addToArray 1  True
+addToArray 2 True
+addToArray 3 True
+addToArray 4 True
+addToArray 1 True
+addToArray 5 True
+addToArray 6 True
+addToArray 7 True
+addToArray 8 True
+addToArray 9 True
+getArray
+ {9,32599,1802958840,32599,-1,0,809054264,875902261}
+sortAll
+getArray
+ {9,32599,1802958840,32599,-1,0,809054264,875902261}
+createArray 10 True
+addToArray 4 True
+addToArray 6 True
+addToArray 2 True
+addToArray 1 True
+addToArray 9 True
+addToArray 5 True
+addToArray 3 True
+addToArray 8 True
+addToArray 7 True
+addToArray 9 True
+getArray
+ {9,32599,1802958872,32599,-1,0,959788856,909259312}
+sortAll
+getArray
+ {9,32599,1802958872,32599,-1,0,959788856,909259312}
