@@ -19,8 +19,11 @@ class QS :
 		bool addToArray(int value);
 		bool createArray(int capacity);
 		void clear();
+		bool quickSort(int first, int last);
+		bool quickerSort(int first, int last);
 	private:
 		int *array;
 		int curInst;
 		int capacity;
+		
 };
