@@ -6,6 +6,7 @@ using namespace std;
 
 QS::QS()
 {
+    array = 0;
     curInst = 0;
 }
 QS::~QS()
@@ -37,11 +38,11 @@ int QS::medianOfThree(int left, int right)
     
     int temp;
     
-    if(curInst = 0)
+    if(curInst == 0 || left == right)
     {
         return -1;
     }
-    int middle = left + right /2;
+    int middle = (left + right) /2;
     
     bool sorted1 = false;
     bool sorted2 = false;
@@ -71,6 +72,8 @@ int QS::medianOfThree(int left, int right)
         }
         
     }
+    
+    cout << "middle: " << middle << endl;
     
     return middle;
 }
@@ -138,7 +141,7 @@ string QS::getArray() const
 {
     cout << "getArray()" << endl;
     string arraySt = "";
-    if (sizeof(array) == 0 || array == 0)
+    if (curInst == 0 || array == 0)
     {
         return "";
     }
@@ -179,11 +182,13 @@ bool QS::addToArray(int value)
 bool QS::createArray(int capacity)
 {
     cout << "createArray(" << capacity << ")" << endl;
+    curInst = 0;
     this->capacity = capacity;
     if(array != 0)
     {
         cout << "about to delete hope it goes ok" << endl;
         delete [] array;
+        array = 0;
         array = new int[capacity];
         return true;
     }
